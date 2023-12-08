@@ -1,0 +1,3 @@
+  PID TTY           TIME CMD
+67643 ttys000    0:00.15 -bash
+67818 ttys000    0:00.00 head -n 5
